@@ -213,4 +213,4 @@ Flowplayer is offered as a **full free version** with all features included. The
 Unlock the power of seamless video playback on your website with Flowplayer. **Download Flowplayer free today!**
 
 ---
-**Last updated:** 2026-10-31 13:58:57 UTC
+**Last updated:** 2026-10-31 18:12:16 UTC
